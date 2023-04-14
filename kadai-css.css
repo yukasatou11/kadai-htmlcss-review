@@ -3,7 +3,6 @@
 /* チャプター：ヘッダー */
 header {
     width: 1000px;
-    height: 20px;
     background-color: #ffcccc
 }
 /* チャプター：メインとメニュー(2カラムレイアウト） */
@@ -22,6 +21,5 @@ header {
 /* チャプター：フッター */
 footer {
     width: 1000px;
-    height: 20px;
     background-color: #ffccff;
 }
