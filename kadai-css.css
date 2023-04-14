@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* チャプター：ヘッダー */
+header {
+    width: 1000px;
+    height: 20px;
+    background-color: #ffcccc
+}
+/* チャプター：メインとメニュー(2カラムレイアウト） */
+#wrapper {
+    width: 1000px;
+    display: flex;
+}
+#main {
+    width: 70%;
+    background-color: #ccffcc;
+}
+#menu {
+    width: 30%;
+    background-color: #ccccff;
+}
+/* チャプター：フッター */
+footer {
+    width: 1000px;
+    height: 20px;
+    background-color: #ffccff;
+}
